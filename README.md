@@ -26,7 +26,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/tax-calculator.git
+git clone : https://github.com/pranathi142002/Tax-Calculator/tree/main
 
 
 2. Navigate to the project directory:
