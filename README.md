@@ -1,40 +1,39 @@
-# Tax-Calculator
+# Tax Calculator
 
-This is a simple tax calculator web application that allows users to calculate their tax based on their income, extra income, deductions, and age group.
+## Overview
+Tax Calculator is a web application that enables users to calculate their tax liabilities based on their annual income, extra income, deductions, and age group. It provides an intuitive interface for users to input their financial details and promptly receive accurate tax calculations.
 
 ## Features
-
-- Allows users to input their annual income, extra income, deductions, and select their age group.
-- Calculates tax based on the provided inputs and predefined tax brackets.
-- Displays the calculated tax in a user-friendly manner.
-- Validates user inputs and displays error messages accordingly.
-- Provides a clear button to reset the inputs and clear the tax result.
+- **Input Form**: Users can input their annual income, extra income, deductions, and select their age group.
+- **Real-time Validation**: Input fields are validated in real-time, providing immediate feedback to users about the validity of their entries.
+- **Tax Calculation**: The application calculates tax obligations based on the provided inputs and predefined tax brackets.
+- **Error Handling**: In case of invalid inputs, clear error messages guide users to correct their entries.
+- **Clear Functionality**: Users can clear all input fields and reset the tax calculation with a single click.
+- **Responsive Design**: The application is responsive, ensuring optimal usability across various devices and screen sizes.
 
 ## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
+- **HTML**: Used for structuring the web page.
+- **CSS**: Utilized for styling and layout design.
+- **JavaScript**: Implemented for interactive functionality and tax calculation logic.
 
 ## Usage
+To use the Tax Calculator, follow these simple steps:
+1. Open the application in your web browser.
+2. Input your annual income, extra income, deductions, and select your age group from the dropdown menu.
+3. Click on the "Calculate Tax" button to view the calculated tax amount.
+4. If any errors occur in the input fields, clear error messages will guide you to rectify them.
+5. You can reset all input fields and clear the tax calculation by clicking on the "Clear" button.
 
-To use the tax calculator, simply enter your annual income, extra income, deductions, and select your age group from the dropdown menu. Then, click on the "Calculate Tax" button to see the calculated tax amount. If there are any errors in the input fields, error messages will be displayed to guide you. You can also click on the "Clear" button to reset the inputs and clear the tax result.
-
-## Setup
-
-To set up the project locally, follow these steps:
-
-1. Clone the repository:
-
-git clone : https://github.com/pranathi142002/Tax-Calculator/tree/main
-
-
-2. Navigate to the project directory:
-
-cd tax-calculator
+## Installation
+To run the Tax Calculator locally, follow these steps:
+1. Clone the repository to your local machine using Git.
+link: https://github.com/pranathi142002/Tax-Calculator
+2. Open the project directory in your preferred code editor.
+3. Open the `index.html` file in a web browser to view the application.
 
 
-3. Open the `index.html` file in your web browser.
+
+
 
 
 
